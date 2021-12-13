@@ -5,13 +5,13 @@ Scythe is a minimal Oh-My-Zsh theme
 ## Preview
 
 #### Initial view
-![Default](images/default.jpg)
+![Default](images/default.png)
 
 #### Failed command
-![Failed Command](images/failed_command.jpg)
+![Failed Command](images/failed_command.png)
 
 #### Git support
-![Git Support](images/git_prompt.jpg)
+![Git Support](images/git_prompt.png)
 
 _Disclaimer: The bottom bar is part of a TMux theme. It is not included in this repository!_
 
